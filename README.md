@@ -88,9 +88,10 @@ Access the repository here: [Frontend Workshop Repository](https://github.com/PU
 
 ---
 
-## Contribute
-
-Feel free to add, update, or suggest new sections and exercises to improve this repository. Collaboration is encouraged!
+## 🏆 Contributors
+We'd like to thank everyone who contributed to this repository:
+- **Project Leads**: PUP MSC Frontend Workshop Team
+- **Contributors**: @Adriel Magalona
 
 ---
 
