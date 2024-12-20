@@ -88,10 +88,14 @@ Access the repository here: [Frontend Workshop Repository](https://github.com/PU
 
 ---
 
-## 🏆 Contributors
-We'd like to thank everyone who contributed to this repository:
-- **Project Leads**: PUP MSC Frontend Workshop Team
-- **Contributors**: @Adriel Magalona
+# Contributors
+
+We thank the following individuals for their valuable contributions:
+
+- **Adriel Magalona** - [GitHub Profile](https://github.com/adr1el-m)  
+  *Documentation Writer, Exercise Designer*
+- **John Smith** - [GitHub Profile](https://github.com/johnsmith)  
+  *Project Lead, Code Reviewer*
 
 ---
 
